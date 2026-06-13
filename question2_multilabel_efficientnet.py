@@ -1,11 +1,3 @@
-"""
-Question 2 - Cataract Surgery Instrument Multi-label Classification
-EfficientNet-B0 + BCEWithLogitsLoss + Sigmoid
-
-Before running:
-pip install torch torchvision pandas numpy matplotlib scikit-learn pillow openpyxl
-"""
-
 import os
 import copy
 from pathlib import Path
